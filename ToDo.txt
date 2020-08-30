@@ -1,8 +1,6 @@
 Cosas por hacer:
 ->PRIMERA PARTE:
-	*paso1
-	*paso2
-	*paso3
-	*paso4
-	*paso5
-	*paso6
+	* paso1  (yes)
+	* paso2
+	* paso3
+	* paso4	
