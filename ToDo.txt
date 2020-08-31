@@ -5,6 +5,6 @@ Cosas por hacer:
 	* paso3
 	* paso4	
 ->SEGUNDA PARTE:
-	* pasot
+	* paso1 (yes)
 	* paso2
 	* paso3 (yes)
